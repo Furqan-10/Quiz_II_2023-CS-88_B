@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="complaint_categories">
+        <item>Academic</item>
+        <item>Facilities</item>
+        <item>Administrative</item>
+        <item>Technical</item>
+        <item>Other</item>
+    </string-array>
+
+    <string-array name="priority_levels">
+        <item>Low</item>
+        <item>Medium</item>
+        <item>High</item>
+        <item>Urgent</item>
+    </string-array>
+</resources>

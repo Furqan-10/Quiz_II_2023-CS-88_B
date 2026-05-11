@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">ComplaintRegistrationApp</string>
+    <string name="splash_title">Complaint Registration App</string>
+    <string name="splash_subtitle">Powered by Firebase</string>
+
+    <string name="hint_student_name">Student Name</string>
+    <string name="hint_roll_number">Roll Number</string>
+    <string name="hint_complaint_title">Complaint Title</string>
+    <string name="hint_complaint_description">Complaint Description</string>
+    <string name="label_category">Complaint Category</string>
+    <string name="label_priority">Priority Level</string>
+    <string name="btn_submit">Submit Complaint</string>
+    <string name="btn_view_complaints">View Complaints</string>
+    <string name="no_complaints_found">No Complaints Found</string>
+</resources>
